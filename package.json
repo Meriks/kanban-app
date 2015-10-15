@@ -1,0 +1,19 @@
+{
+  "name": "kanban-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meriks/kanban-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meriks/kanban-app/issues"
+  },
+  "homepage": "https://github.com/Meriks/kanban-app#readme"
+}
